@@ -1,0 +1,12 @@
+MAKE SURE YOUR DISPLAY IS SET TO 1600x900 (in display settings for your computer)
+----------------------------------------------------------------------------------
+1.place CODES.txt on left side of screen as shown below (after insructions)
+2.open roblox and click CODES 
+3.Place the roblox window to the right of your screen as shown in the Screenshot below
+4.Open tgmacro and import codes.tmacroproj
+5.set a keybind in editor if needed (default is back mouse thumb button)
+6.make sure your applications are in the correct places and press your keybind after minimizing your tgmacro (i dont recommend it being a letter or symbol it may cause issues)
+7.wait for it to cycle thru the list and enjoy your gems and other perks.
+
+--Video for those unclear on text instructions (paste link into browser)
+(https://streamable.com/tm914y)
